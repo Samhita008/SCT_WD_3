@@ -1,4 +1,5 @@
 Tic-Tac-Toe Game
+
 Overview:
 This repository contains a responsive and visually appealing Tic-Tac-Toe game. The game is designed for two players, featuring dynamic turn-based play, win/draw detection, and an option to restart the game.
 
@@ -21,7 +22,6 @@ Click the "Restart Game" button to reset the board for a new match.
 
 Win Conditions:
 The game is won if a player marks any of the following conditions:
-
 Three horizontal cells.
 Three vertical cells.
 Three diagonal cells.
